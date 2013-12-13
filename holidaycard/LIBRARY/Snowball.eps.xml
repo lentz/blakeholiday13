@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Snowball.eps" itemID="52aa5f96-0000001f" symbolType="graphic" lastModified="1386897302">
+  <timeline>
+    <DOMTimeline name="Snowball.eps">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#BEC5C6"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!27 419[99 184 316 69!316 69[533 -46 768 27!768 27[1003 99 1118 316!1118 316[1233 533 1160 768!1160 768[1088 1003 871 1118!871 1118[654 1233 419 1160!419 1160[184 1088 69 871!69 871[-46 654 27 419"/>
+                        <Edge cubics="!27 419(;123,105 455,-70 768,27q27 419Q99 184q316 69Q533 -46q768 27);"/>
+                        <Edge cubics="!768 27(;1081,123 1257,455 1160,768q768 27Q1003 99q1118 316Q1233 533q1160 768);"/>
+                        <Edge cubics="!1160 768(;1064,1081 732,1257 419,1160q1160 768Q1088 1003q871 1118Q654 1233q419 1160);"/>
+                        <Edge cubics="!419 1160(;106,1064 -70,732 27,419q419 1160Q184 1088q69 871Q-46 654q27 419);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!93 439[157 232 348 131!348 131[540 29 747 93!747 93[955 157 1056 349!1056 349[1158 540 1094 748!1094 748[1030 955 839 1056!839 1056[647 1158 439 1094!439 1094[232 1030 131 839!131 839[29 647 93 439"/>
+                        <Edge cubics="!93 439(93,439;178,163 471,8 747,93q93 439Q157 232q348 131Q540 29q747 93);"/>
+                        <Edge cubics="!747 93(;1024,178 1179,471 1094,748q747 93Q955 157q1056 349Q1158 540q1094 748);"/>
+                        <Edge cubics="!1094 748(;1009,1024 716,1179 439,1094q1094 748Q1030 955q839 1056Q647 1158q439 1094);"/>
+                        <Edge cubics="!439 1094(;163,1009 8,716 93,439q439 1094Q232 1030q131 839Q29 647q93 439);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

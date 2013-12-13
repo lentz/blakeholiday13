@@ -1,0 +1,114 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#1793B5" width="720" height="480" currentTimeline="1" xflVersion="2.4" creatorInfo="Adobe Flash Professional CC" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 13.1 build 217" majorVersion="13" minorVersion="1" buildNumber="217" objectsSnapTo="false" viewAngle3D="68.5464806480514" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <media>
+          <DOMSoundItem name="christmas_toy_store.mp3" itemID="52aa6866-00000030" sourceExternalFilepath="../blakeholiday13/assets/christmas_toy_store.mp3" sourceLastImported="1386896249" sourcePlatform="macintosh" href="christmas_toy_store.mp3" soundDataHRef="M 1 1386899558.dat" format="44kHz 16bit Stereo" sampleCount="2737152" exportFormat="1" exportBits="7" dataLength="993198" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="342144"/>
+     </media>
+     <symbols>
+          <Include href="Dog Walker.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f8d-00000005" lastModified="1386897293"/>
+          <Include href="DrkBlueBkgrd.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f8e-00000007" lastModified="1386897294"/>
+          <Include href="Ice Pond.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f8e-00000009" lastModified="1386897294"/>
+          <Include href="Lower Title.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f8f-0000000b" lastModified="1386897295"/>
+          <Include href="Park Bench Tree.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f90-0000000f" lastModified="1386897296"/>
+          <Include href="Season Greetings.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f91-00000011" lastModified="1386897297"/>
+          <Include href="Skater Female.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f92-00000013" lastModified="1386897298"/>
+          <Include href="Skater Male.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f93-00000015" lastModified="1386897299"/>
+          <Include href="Skyline.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f93-00000017" lastModified="1386897299"/>
+          <Include href="Sled Girl w-Kids.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f94-00000019" lastModified="1386897300"/>
+          <Include href="Snowball Boy1.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f94-0000001b" lastModified="1386897300"/>
+          <Include href="Snowball Boy2.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f95-0000001d" lastModified="1386897301"/>
+          <Include href="Snowball fight.xml" loadImmediate="false" itemID="52aa7097-000000e5" lastModified="1386903194"/>
+          <Include href="Snowball.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f96-0000001f" lastModified="1386897302"/>
+          <Include href="SnowGround.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa6d4d-000000c5" lastModified="1386900909"/>
+          <Include href="Snowman.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f97-00000023" lastModified="1386897303"/>
+          <Include href="Speed Skater.eps.xml" itemIcon="1" loadImmediate="false" itemID="52aa5f97-00000025" lastModified="1386897303"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Snow" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="417" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="SnowGround.eps" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-1.25" ty="225"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="360.6" y="144.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Snowman.eps" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix a="0.881484985351562" d="0.881484985351562" tx="55.85" ty="216.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="145.4" y="239.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Snowball fight">
+                                             <matrix>
+                                                  <Matrix a="0.740142822265625" d="0.740142822265625" tx="505.3" ty="403.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="30.65" y="42"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Skyline" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Skyline.eps" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-8.5" ty="50.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="364.25" y="105.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Skyline.eps" symbolType="graphic" centerPoint3DX="355.75" centerPoint3DY="156" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-8.5" ty="50.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="364.25" y="105.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Music" color="#4F80FF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="401" keyMode="9728" soundName="christmas_toy_store.mp3" soundLoopMode="loop" soundLoop="32767">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="401" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="974168" publishTime="1386903501"/>
+          <PublishItem publishSize="974168" publishTime="1386903454"/>
+          <PublishItem publishSize="972862" publishTime="1386902153"/>
+          <PublishItem publishSize="972039" publishTime="1386900855"/>
+          <PublishItem publishSize="977966" publishTime="1386900773"/>
+          <PublishItem publishSize="977966" publishTime="1386900763"/>
+          <PublishItem publishSize="972037" publishTime="1386900048"/>
+          <PublishItem publishSize="53" publishTime="1386899682"/>
+     </publishHistory>
+</DOMDocument>
