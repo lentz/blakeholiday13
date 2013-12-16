@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Ice Pond.eps" itemID="52ae8213-00000108" symbolType="graphic" lastModified="1387168275">
+  <timeline>
+    <DOMTimeline name="Ice Pond.eps">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BEC5C6"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14353 759[14353 913 13789 1054!13789 1054[13244 1191 12251 1296!12251 1296[10149 1518 7177 1518!7177 1518[4204 1518 2102 1296!2102 1296[1109 1191 564 1054!564 1054[0 913 0 759!0 759[0 605 564 464!564 464[1109 327 2102 222!2102 222[4204
+ 0 7177 0!7177 0[10149 0 12251 222!12251 222[13245 327 13789 464!13789 464[14353 605 14353 759"/>
+                    <Edge cubics="!14353 759(;14353,1178 11140,1518 7177,1518q14353 759Q14353 913q13789 1054Q13244 1191q12251 1296Q10149 1518q7177 1518)7177,1518;"/>
+                    <Edge cubics="!7177 1518(7177,1518;3213,1518 0,1178 0,759q7177 1518Q4204 1518q2102 1296Q1109 1191q564 1054Q0 913q0 759)0,759;"/>
+                    <Edge cubics="!0 759(;0,340 3213,0 7177,0q0 759Q0 605q564 464Q1109 327q2102 222Q4204 0q7177 0);"/>
+                    <Edge cubics="!7177 0(;11140,0 14353,340 14353,759q7177 0Q10149 0q12251 222Q13245 327q13789 464Q14353 605q14353 759);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

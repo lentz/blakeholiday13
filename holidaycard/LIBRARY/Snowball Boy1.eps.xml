@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Snowball Boy1.eps" itemID="52aa5f94-0000001b" symbolType="graphic" lastModified="1386897300">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Snowball Boy1.eps" itemID="52aa5f94-0000001b" symbolType="graphic" lastModified="1387165076">
   <timeline>
     <DOMTimeline name="Snowball Boy1.eps">
       <layers>
@@ -6,9 +6,15 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMGroup selected="true">
+                <DOMGroup>
+                  <matrix>
+                    <Matrix a="0.890823364257812" d="0.890823364257812" tx="28.85" ty="26.05"/>
+                  </matrix>
                   <members>
                     <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.89080810546875" d="0.89080810546875" tx="28.9" ty="26"/>
+                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#1393B5"/>
@@ -23,6 +29,9 @@
                       </edges>
                     </DOMShape>
                     <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.89080810546875" d="0.89080810546875" tx="28.9" ty="26"/>
+                      </matrix>
                       <fills>
                         <FillStyle index="1">
                           <SolidColor color="#1393B5"/>
