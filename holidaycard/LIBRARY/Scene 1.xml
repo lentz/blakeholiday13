@@ -5,9 +5,7 @@
         <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMBitmapInstance selected="true" libraryItemName="Scene1.eps Assets/Scene1.png"/>
-              </elements>
+              <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
