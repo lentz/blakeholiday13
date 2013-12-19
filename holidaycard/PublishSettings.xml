@@ -83,7 +83,7 @@
     <DebuggingPassword></DebuggingPassword>
     <CompressMovie>1</CompressMovie>
     <CompressionType>0</CompressionType>
-    <InvisibleLayer>1</InvisibleLayer>
+    <InvisibleLayer>0</InvisibleLayer>
     <DeviceSound>0</DeviceSound>
     <StreamUse8kSampleRate>0</StreamUse8kSampleRate>
     <EventUse8kSampleRate>0</EventUse8kSampleRate>
@@ -146,7 +146,7 @@
     <Animated>0</Animated>
     <MatchMovieDim>1</MatchMovieDim>
     <Loop>1</Loop>
-    <LoopCount></LoopCount>
+    <LoopCount>0</LoopCount>
     <Smooth>1</Smooth>
     <MaxColors>255</MaxColors>
   </PublishGifProperties>

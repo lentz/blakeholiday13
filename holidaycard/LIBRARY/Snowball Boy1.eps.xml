@@ -7,13 +7,10 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix a="0.890823364257812" d="0.890823364257812" tx="28.85" ty="26.05"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true" isDrawingObject="true">
                       <matrix>
-                        <Matrix a="0.89080810546875" d="0.89080810546875" tx="28.9" ty="26"/>
+                        <Matrix a="0.890823364257812" d="0.890823364257812" tx="28.9" ty="26"/>
                       </matrix>
                       <fills>
                         <FillStyle index="1">
@@ -30,7 +27,7 @@
                     </DOMShape>
                     <DOMShape selected="true" isDrawingObject="true">
                       <matrix>
-                        <Matrix a="0.89080810546875" d="0.89080810546875" tx="28.9" ty="26"/>
+                        <Matrix a="0.890823364257812" d="0.890823364257812" tx="28.9" ty="26"/>
                       </matrix>
                       <fills>
                         <FillStyle index="1">
