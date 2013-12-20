@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 4" itemID="52b3b4ae-00000033" lastModified="1387508910">
+  <timeline>
+    <DOMTimeline name="Symbol 4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Skater Female.eps" selected="true" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.618408203125" d="0.618408203125" tx="-0.05" ty="7.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="191.55" y="146"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Skater Male.eps" selected="true" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.63592529296875" d="0.63592529296875" tx="68.7" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-346.05" y="154.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
