@@ -7,9 +7,6 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup selected="true">
-                  <matrix>
-                    <Matrix tx="-0.05" ty="0.05"/>
-                  </matrix>
                   <members>
                     <DOMShape selected="true" isDrawingObject="true">
                       <matrix>

@@ -30,7 +30,7 @@
           <Include href="Symbol 5.xml" loadImmediate="false" itemID="52b3b7a2-0000004e" lastModified="1387509666"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="775">
+          <DOMTimeline name="Scene 1" currentFrame="1">
                <layers>
                     <DOMLayer name="Fade In Mask" color="#4F80FF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -213,7 +213,7 @@
                               <DOMFrame index="0" duration="89" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
                                    <motionObjectXML><AnimationCore TimeScale="30000" Version="1" duration="89000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.497809" xformPtYOffsetPct="0.477327" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,5.18341" next="0,5.18341" previous="0,5.18341" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,5.17883" next="0,5.17883" previous="0,5.17883" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Park Bench Tree.eps" selected="true" symbolType="graphic" loop="loop">
+                                        <DOMSymbolInstance libraryItemName="Park Bench Tree.eps" symbolType="graphic" loop="loop">
                                              <matrix>
                                                   <Matrix a="0.05181884765625" d="0.0517730712890625" tx="638.55" ty="184.25"/>
                                              </matrix>
@@ -402,7 +402,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Upper Title" color="#9933CC" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+                    <DOMLayer name="Upper Title" color="#9933CC" autoNamed="false" animationType="motion object">
                          <frames>
                               <DOMFrame index="0" duration="720" keyMode="9728">
                                    <elements/>
@@ -517,9 +517,12 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Music" color="#4F80FF" locked="true" autoNamed="false">
+                    <DOMLayer name="Music" color="#4F80FF" locked="true" current="true" isSelected="true" autoNamed="false">
                          <frames>
-                              <DOMFrame index="0" duration="900" keyMode="9728" soundName="christmas_toy_store.wav">
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="899" keyMode="9728" soundName="christmas_toy_store.wav">
                                    <SoundEnvelope>
                                         <SoundEnvelopePoint level0="32768" level1="32768"/>
                                    </SoundEnvelope>
@@ -535,6 +538,12 @@
      </persistentData>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="175752" publishTime="1387656615"/>
+          <PublishItem publishSize="175752" publishTime="1387656568"/>
+          <PublishItem publishSize="175745" publishTime="1387656209"/>
+          <PublishItem publishSize="175745" publishTime="1387655765"/>
+          <PublishItem publishSize="175745" publishTime="1387655729"/>
+          <PublishItem publishSize="175745" publishTime="1387655175"/>
           <PublishItem publishSize="175745" publishTime="1387510254"/>
           <PublishItem publishSize="175745" publishTime="1387510090"/>
           <PublishItem publishSize="175745" publishTime="1387509935"/>
@@ -549,11 +558,5 @@
           <PublishItem publishSize="168879" publishTime="1387502234"/>
           <PublishItem publishSize="168856" publishTime="1387502174"/>
           <PublishItem publishSize="168856" publishTime="1387502148"/>
-          <PublishItem publishSize="169089" publishTime="1387501904"/>
-          <PublishItem publishSize="169089" publishTime="1387501895"/>
-          <PublishItem publishSize="166723" publishTime="1387425809"/>
-          <PublishItem publishSize="167007" publishTime="1387425530"/>
-          <PublishItem publishSize="166972" publishTime="1387425102"/>
-          <PublishItem publishSize="166981" publishTime="1387424727"/>
      </publishHistory>
 </DOMDocument>
